@@ -1,0 +1,9 @@
+replicaCount: 1
+
+environment: dev
+
+ingress:
+  enabled: false
+
+autoscaling:
+  enabled: false

@@ -1,0 +1,9 @@
+replicaCount: 2
+
+environment: qa
+
+ingress:
+  enabled: false
+
+autoscaling:
+  enabled: false
